@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/SeleniumServer/selenium-2.45.0/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumServer/selenium-2.45.0/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumServer/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumServer/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumServer/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumServer/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
